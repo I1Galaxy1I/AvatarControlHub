@@ -59,8 +59,22 @@ jobs:
       # Build Package Version Listing with Nuke
       - name: Build Package Version Listing
         run: ${{ env.pathToCi }}/build.cmd BuildRepoListing --root ${{ env.pathToCi }} --list-publish-directory $GITHUB_WORKSPACE/${{ env.listPublishDirectory }} --current-package-name ${{ vars.PACKAGE_NAME }}
+       
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Change the repository name shown in VCC
+      - name: Rename VCC Repository
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("Website/index.json")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          data["name"] = "Avatar Control Hub"
+          path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+          PY
 
       # Prepare for GitHub Pages deployment
       - name: Setup Pages
