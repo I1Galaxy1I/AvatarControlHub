@@ -1,4 +1,4 @@
-1.6 
+1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
 Changed Browse button to Use Open Folder in Blendtree Animation Converter.
 Made all drop down arrows dynamic.
