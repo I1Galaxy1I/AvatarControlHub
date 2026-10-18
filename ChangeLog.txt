@@ -8,13 +8,14 @@ Added Parameter Merger.
 Added layer weight warning to Avatar Setup.
 Added Missing motion and Missing Parameters warning to Avatar Setup.
 Added Missing Parameters finder to Parameter Manager Tools.
-Added Duplicate parameter waring to the Parameter Manager.
+Added Duplicate parameter warning to the Parameter Manager.
 Made it add the VRC Parameters to the menus parameter slot.
 Updated missing script warning in Avatar Setup.
 Added unused parameter to Parameter Managers Tools.
 Moved Parameter Usage to Tools in Parameter Manager.
 Added Close Button to Parameter Usage.
 Added Animations Recorder.
+Added VCC Listing.
 
 1.5 05/10/2026
 Updated Avatar Setup.
