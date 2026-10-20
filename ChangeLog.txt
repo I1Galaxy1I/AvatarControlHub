@@ -2,6 +2,7 @@
 Updated Animations Recorder.
 Updated Parameter Drop Downs.
 Added Parameter Driver Maker.
+Updated Some ToolTips and Text.
 
 1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
