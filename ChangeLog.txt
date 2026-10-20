@@ -1,5 +1,6 @@
 1.7 work in progress
-Updated Animation Recorder.
+Updated Animations Recorder.
+Updated Parameter Drop Downs.
 
 1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
