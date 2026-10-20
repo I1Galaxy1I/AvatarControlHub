@@ -3,6 +3,7 @@ Updated Animations Recorder.
 Updated Parameter Drop Downs.
 Added Parameter Driver Maker.
 Updated Some ToolTips and Text.
+Made it so when you back out a blendtree you don't have to scroll back down.
 
 1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
