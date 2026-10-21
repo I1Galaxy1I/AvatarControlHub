@@ -7,6 +7,7 @@ Made it so when you back out a blendtree you don't have to scroll back down.
 Removed Resizable menu for VRC Menu Editor.
 Fix Direct Blendtrees not uses the resize when empty.
 Added Hide In Play Mode toggle.
+Updated Layer Editor Ui.
 
 1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
