@@ -1,7 +1,7 @@
 {
   "name": "com.i1galaxy1i.avatarcontrolhub",
   "displayName": "Avatar Control Hub",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "changelogUrl": "https://github.com/I1Galaxy1I/AvatarControlHub/blob/main/ChangeLog.txt",
   "unity": "2022.3",
   "gitDependencies": {},
