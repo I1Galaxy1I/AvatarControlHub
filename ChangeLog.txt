@@ -10,6 +10,7 @@ Added Hide In Play Mode toggle.
 Updated Layer Editor Ui.
 Updated Animation Merger Ui.
 Updated Blendshape Mapper Ui.
+Updated Animations Path Replacer Ui.
 
 1.6 18/10/2026
 Added Auto Folder path to Blendtree Animation Converter.
