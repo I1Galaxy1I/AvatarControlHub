@@ -1,4 +1,4 @@
-1.7 work in progress
+1.7 21/10/2026
 Updated Animations Recorder.
 Updated Parameter Drop Downs.
 Added Parameter Driver Maker.
