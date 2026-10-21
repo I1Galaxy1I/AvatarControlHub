@@ -40,7 +40,7 @@ Added Parameter Usage finder.
 Updated VRC menu editor.
 Updated Parameter manager.
 Renamed Layer Merger to Merger and added a controller merger to it.
-Added Animator Controller Merger.
+Added Controller Merger.
 Updated Drop Downs.
 Added Rename all blendtrees to use parameter as name.
 Added Multi cut and paste.
