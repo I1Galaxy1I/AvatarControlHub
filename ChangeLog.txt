@@ -1,3 +1,6 @@
+1.7.2-Hotfix 21/10/2026
+Added Parameter Driver Maker Drop Downs.
+
 1.7 21/10/2026
 Updated Animations Recorder.
 Updated Parameter Drop Downs.
