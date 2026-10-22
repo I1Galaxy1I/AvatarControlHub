@@ -3,6 +3,8 @@ Added Int Mode to BlendTree Animation Converter.
 Renamed Snap Mode to Float Snap Mode in BlendTree Animation Converter.
 Moved BlendTree Animation Converter above the blendtree name in none direct blendtrees.
 Added Parameter Manager Parameter Grouping Button
+Updated Parameter Driver Maker Layer.
+Updated Layer Editor state rows.
 
 1.7.2-Hotfix 21/10/2026
 Added Parameter Driver Maker Drop Downs.
