@@ -6,6 +6,8 @@ Added Parameter Manager Parameter Grouping Button
 Updated Parameter Driver Maker Layer.
 Updated Layer Editor state rows.
 Added Closest Matching Names toggle to the Blendshape Mapper.
+Moved Blandshape Mapper in to Mapper.
+Added Object Toggle Mapper.
 
 1.7.2-Hotfix 21/10/2026
 Added Parameter Driver Maker Drop Downs.
