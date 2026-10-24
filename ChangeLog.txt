@@ -17,6 +17,7 @@ Added Puppet Mode to BlendTree Maker.
 Updated Animation Recorder Ui.
 Made it so pressing record switches the window to Scene.
 Removed Return To Project Toggle from Animations Recorder.
+Added Parameter Categories to Parameter Manager Options.
 
 1.7 21/10/2026
 Updated Animations Recorder.
