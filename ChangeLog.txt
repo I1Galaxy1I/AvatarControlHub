@@ -15,6 +15,7 @@ Renamed BlendTree Animation Converter to BlendTree Maker.
 Added Use 2 frame Animations to BlendTree Maker.
 Added Puppet Mode to BlendTree Maker.
 Updated Animation Recorder Ui.
+Made it so pressing record switches the window to Scene.
 
 1.7.2-Hotfix 21/10/2026
 Added Parameter Driver Maker Drop Downs.
