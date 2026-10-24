@@ -1,4 +1,4 @@
-1.8 WIP
+1.8 24/10/2026
 Added Int Mode to BlendTree Animation Converter.
 Renamed Snap Mode to Float Snap Mode in BlendTree Animation Converter.
 Moved BlendTree Animation Converter above the blendtree name in none direct blendtrees.
