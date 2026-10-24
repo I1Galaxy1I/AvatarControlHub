@@ -47,6 +47,21 @@ jobs:
           path: ${{ env.pathToCi }}
           clean: false
 
+      # Build the listing tool using .NET 8 only
+      - name: Fix .NET Build Conflict
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("ci/PackageBuilder/PackageBuilder.csproj")
+          content = path.read_text()
+          content = content.replace(
+              "<TargetFrameworks>net6.0;net8.0</TargetFrameworks>",
+              "<TargetFrameworks>net8.0</TargetFrameworks>"
+          )
+          path.write_text(content)
+          PY
+
       # Load cached data from previous runs
       - name: Restore Cache
         uses: actions/cache@v4
