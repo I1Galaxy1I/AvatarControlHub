@@ -16,6 +16,7 @@ Added Use 2 frame Animations to BlendTree Maker.
 Added Puppet Mode to BlendTree Maker.
 Updated Animation Recorder Ui.
 Made it so pressing record switches the window to Scene.
+Removed Return To Project Toggle from Animations Recorder.
 
 1.7 21/10/2026
 Updated Animations Recorder.
