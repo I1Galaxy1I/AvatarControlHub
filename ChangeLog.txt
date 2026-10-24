@@ -11,6 +11,9 @@ Added Object Toggle Mapper.
 Moved Per Project Saved settings to the Library Folder.
 Changed Main Tools Toggles to per project saved.
 Moved the Source Assets in Blendshape Mapper, Object Toggle Mapper, Animation Merger, Controller Merger, Parameter Merger and the Animations Path Replacer below the Check and Process buttons.
+Renamed BlendTree Animation Converter to BlendTree Maker.
+Added Use 2 frame Animations to BlendTree Maker.
+Added Puppet Mode to BlendTree Maker.
 
 1.7.2-Hotfix 21/10/2026
 Added Parameter Driver Maker Drop Downs.
