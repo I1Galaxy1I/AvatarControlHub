@@ -9,6 +9,7 @@ Added Closest Matching Names toggle to the Blendshape Mapper.
 Moved Blandshape Mapper in to Mapper.
 Added Object Toggle Mapper.
 Moved Per Project Saved settings to the Library Folder.
+Changed Main Tools Toggles to per project saved.
 
 1.7.2-Hotfix 21/10/2026
 Added Parameter Driver Maker Drop Downs.
