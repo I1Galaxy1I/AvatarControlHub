@@ -1,5 +1,6 @@
 1.9 WIP
-Updated Parameter Categories
+Updated Parameter Categories.
+Updated Parameter Driver Maker.
 
 1.8 24/10/2026
 Added Int Mode to BlendTree Animation Converter.
