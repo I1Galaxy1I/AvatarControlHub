@@ -1,4 +1,4 @@
-1.9 WIP
+1.9 31/10/2026
 Updated Parameter Categories.
 Updated Parameter Driver Maker.
 Added Parameter Manager Advanced options.
