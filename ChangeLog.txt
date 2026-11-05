@@ -5,6 +5,7 @@ Made Parameter Driver Maker Parameter Categories stay open if they where before.
 Updated Animations Recorder to reopen the fx that was last open in the Animator, Now opens the last window you had open before recording.
 Updated Parameter drop downs to remember  what you had open.
 Updated BlendTree Editor to remember what you had open.
+Updated Parameter Manager Defaults Options.
 
 1.9 31/10/2026
 Updated Parameter Categories.
