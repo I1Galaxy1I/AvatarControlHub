@@ -6,6 +6,7 @@ Updated Animations Recorder to reopen the fx that was last open in the Animator,
 Updated Parameter drop downs to remember  what you had open.
 Updated BlendTree Editor to remember what you had open.
 Updated Parameter Manager Defaults Options.
+Updated Merger UI.
 
 1.9 31/10/2026
 Updated Parameter Categories.
