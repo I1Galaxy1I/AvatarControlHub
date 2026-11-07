@@ -9,6 +9,7 @@ Updated Parameter Manager Defaults Options.
 Updated Merger UI.
 Updated Mapper UI.
 Updated BlendTree Maker UI.
+Updated Parameter Driver Maker UI.
 
 1.9 31/10/2026
 Updated Parameter Categories.
