@@ -14,6 +14,7 @@ Updated Animations Recorder UI.
 Update Parameter Driver Maker Ui.
 Updated Mapper UI.
 Updated Merger UI.
+Added Rename Parameter Categories option.
 
 1.9 31/10/2026
 Updated Parameter Categories.
