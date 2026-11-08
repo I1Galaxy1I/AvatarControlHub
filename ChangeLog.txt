@@ -14,7 +14,7 @@ Updated Animations Recorder UI.
 Update Parameter Driver Maker Ui.
 Updated Mapper UI.
 Updated Merger UI.
-Added Rename Parameter Categories option.
+Added Rename Parameter Categories option to Parameter Manager Options.
 Updated Merger and Mapper Check Buttons.
 Added Parameter Driver Categories Toggle.
 
