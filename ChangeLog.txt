@@ -17,6 +17,7 @@ Updated Merger UI.
 Added Rename Parameter Categories to Parameter Manager Options.
 Updated Merger and Mapper Check Buttons.
 Added Parameter Driver Categories Toggle.
+Updated Parameter Driver Maker Logic.
 
 1.9 31/10/2026
 Updated Parameter Categories.
