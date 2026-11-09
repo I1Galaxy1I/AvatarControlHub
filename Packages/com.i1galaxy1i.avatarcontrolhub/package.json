@@ -6,7 +6,7 @@
   "unity": "2022.3",
   "gitDependencies": {},
   "vpmDependencies": {},
-  "legacyFiles": {"Assets/Other/!Utility Scripts/AvatarControlHub.cs": "", "Assets/Other/Editor/AvatarControlHub.Editor.dll": ""},
+  "legacyFiles": {"Assets/Other/!Utility Scripts/AvatarControlHub.cs": "", "Assets/Products/Avatar Control Hub Example/AvatarControlHub.cs": "", "Assets/Other/Editor/AvatarControlHub.Editor.dll": ""},
   "author": {
   "name": "I1Galaxy1I",
   "email": "galaxy92parker@gmail.com",
