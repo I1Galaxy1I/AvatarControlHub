@@ -19,7 +19,6 @@ Updated Merger and Mapper Check Buttons.
 Added Parameter Driver Categories Toggle.
 Updated Parameter Driver Maker Logic.
 Updated Parameter Drop Downs to show the type.
-Added open button for blendtrees in Layer Editor.
 Updated Layer Editor UI.
 
 1.9 31/10/2026
