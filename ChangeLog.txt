@@ -8,6 +8,7 @@ Updated BlendTree Editor to remember what you had open.
 Updated Parameter Manager Defaults Options.
 Added Mesh Render Toggle Mapper.
 Updated Parameter Manager UI.
+Updated Layer Editor UI.
 Updated BlendTree Editor UI.
 Updated BlendTree Maker UI.
 Updated Animations Recorder UI.
@@ -19,7 +20,6 @@ Updated Merger and Mapper Check Buttons.
 Added Parameter Driver Categories Toggle.
 Updated Parameter Driver Maker Logic.
 Updated Parameter Drop Downs to show the type.
-Updated Layer Editor UI.
 
 1.9 31/10/2026
 Updated Parameter Categories.
