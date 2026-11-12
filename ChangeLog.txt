@@ -132,5 +132,5 @@ Added Cut, Copy and paste to Menu Editor.
 Added Colour Picker To Menu Editor.
 Added open Button in submenu name.
 
-1.0 
+1.0 31/08/2026
 Release
