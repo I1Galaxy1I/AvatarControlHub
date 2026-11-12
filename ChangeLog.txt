@@ -97,7 +97,7 @@ Added Rename all blendtrees to use parameter as name.
 Added Multi cut and paste.
 Updated Layer Editor.
 
-1.4
+1.4 30/09/2026
 Updated Avatar Setup to be better.
 Moved parameter memory to parameter manager.
 Made the vrc menu editor take up less vertical space.
