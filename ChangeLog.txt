@@ -25,6 +25,7 @@ Updated Parameter Usage Finder.
 Updated Generated Animations Folder name from Generated to ACH-G-Animations
 Updated Generated BlendTrees name from Generated to ACH-G-BlendTrees
 Updated Generated Animations from Key Frame- to ACH-G-Anim-
+Changed Tool Path to I1Galaxy1I's Prefabs/Avatar Control Hub
 
 1.9 31/10/2026
 Updated Parameter Categories.
