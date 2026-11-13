@@ -8,6 +8,7 @@ Updated BlendTree Editor to remember what you had open.
 Updated Parameter Manager Defaults Options.
 Added Mesh Render Toggle Mapper.
 Updated Parameter Manager UI.
+Updated VRC Menu Editor UI.
 Updated Layer Editor UI.
 Updated BlendTree Editor UI.
 Updated BlendTree Maker UI.
@@ -27,6 +28,7 @@ Updated Generated BlendTrees name from Generated to ACH-G-BlendTree .
 Updated Generated Animations from Key Frame- to ACH-G-Anim- .
 Old Folders, Animations and Blendtrees Migrate over to new names when ACH is opened.
 Changed Tool Path to I1Galaxy1I's Prefabs/Avatar Control Hub.
+Updated BlendTree Search.
 
 1.9 31/10/2026
 Updated Parameter Categories.
