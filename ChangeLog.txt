@@ -23,7 +23,7 @@ Updated Parameter Drop Downs to show the type.
 Updated Layer Editor Functionality. 
 Updated Parameter Usage Finder.
 Updated Generated Animations Folder name from Generated to ACH-G-Animations
-Updated Generated BlendTrees name from Generated to ACH-G-BlendTrees
+Updated Generated BlendTrees name from Generated to ACH-G-BlendTree
 Updated Generated Animations from Key Frame- to ACH-G-Anim-
 Changed Tool Path to I1Galaxy1I's Prefabs/Avatar Control Hub
 
