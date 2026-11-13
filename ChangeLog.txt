@@ -1,8 +1,4 @@
-2.1 WIP
-Updated Generated Animations Folder name from Generated to ACH-G-Animations
-Updated Generated BlendTrees name from Generated to ACH-G-BlendTrees
-
-2.0 12/11/2026
+2.0 WIP Pull back in for more updates
 Updated Scrolling.
 Made Parameter Manager Parameter Categories stay open if they where before.
 Made Parameter Driver Maker Parameter Categories stay open if they where before.
@@ -26,6 +22,8 @@ Updated Parameter Driver Maker Logic.
 Updated Parameter Drop Downs to show the type.
 Updated Layer Editor Functionality. 
 Updated Parameter Usage Finder.
+Updated Generated Animations Folder name from Generated to ACH-G-Animations
+Updated Generated BlendTrees name from Generated to ACH-G-BlendTrees
 
 1.9 31/10/2026
 Updated Parameter Categories.
