@@ -29,6 +29,7 @@ Updated Generated Animations from Key Frame- to ACH-G-Anim- .
 Old Folders, Animations and Blendtrees Migrate over to new names when ACH is opened.
 Changed Tool Path to I1Galaxy1I's Prefabs/Avatar Control Hub.
 Updated BlendTree Search.
+Updated And Added Filter Options.
 
 1.9 31/10/2026
 Updated Parameter Categories.
