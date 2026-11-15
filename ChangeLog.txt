@@ -1,5 +1,5 @@
 2.1 WIP
-Added Use Avatar FX Option to Animations Recorder.
+Updated Animations Recorder to allow you to animate parameters.
 
 2.0 13/11/2026
 Updated Scrolling.
