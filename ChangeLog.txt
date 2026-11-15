@@ -1,3 +1,6 @@
+2.1 WIP
+Added Use Avatar FX Option to Animations Recorder.
+
 2.0 13/11/2026
 Updated Scrolling.
 Made Parameter Manager Parameter Categories stay open if they where before.
