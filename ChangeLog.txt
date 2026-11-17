@@ -1,5 +1,10 @@
 2.1 WIP
 Updated Animations Recorder to allow you to animate parameters.
+Updated Scroll For Parameter Manager.
+Updated Scroll For Layer Editor.
+Updated Scroll For BlendTree Editor.
+Updated Scroll For Animation Recorder.
+Updated Scroll For Parameter Driver Maker.
 
 2.0 13/11/2026
 Updated Scrolling.
