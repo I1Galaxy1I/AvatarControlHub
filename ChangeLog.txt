@@ -5,6 +5,7 @@ Updated Scroll For Layer Editor.
 Updated Scroll For BlendTree Editor.
 Updated Scroll For Animation Recorder.
 Updated Scroll For Parameter Driver Maker.
+Updated VRC Menu Editor.
 
 2.0 13/11/2026
 Updated Scrolling.
