@@ -1,10 +1,6 @@
 2.1 WIP
 Updated Animations Recorder to allow you to animate parameters.
-Updated Scroll For Parameter Manager.
-Updated Scroll For Layer Editor.
-Updated Scroll For BlendTree Editor.
-Updated Scroll For Animation Recorder.
-Updated Scroll For Parameter Driver Maker.
+Updated Scrolling.
 Updated VRC Menu Editor.
 Added Smaller Rows Option to Parameter Manager, Layer Editor, BlendTree Editor, Animations Recorder, Parameter Driver Maker.
 Small Update to Unused Parameters.
