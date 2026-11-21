@@ -9,6 +9,7 @@ Updated VRC Menu Editor.
 Added Smaller Rows Option to Parameter Manager, Layer Editor, BlendTree Editor, Animations Recorder, Parameter Driver Maker.
 Small Update to Unused Parameters.
 Small Update to Avatar Setup.
+Updated Mappers to stop most of the wrong path matches.
 
 2.0 13/11/2026
 Updated Scrolling.
