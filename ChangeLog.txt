@@ -4,6 +4,7 @@ Fixed Searching.
 Updated Float Snap Mode in the BlendTree Maker to space them even smaller now to make it snap more.
 Updated Layer Editor Ui.
 Added + BlendTree to Layer Editor in States.
+Updated Parameter Driver UI.
 Preset Options to Parameter Driver Maker Planned.
 
 2.1 21/11/2026
