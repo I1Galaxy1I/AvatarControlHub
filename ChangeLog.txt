@@ -2,6 +2,8 @@
 Updated Animations Merger to fix overlap issues.
 Fixed Searching.
 Updated Float Snap Mode in the BlendTree Maker to space them even smaller now to make it snap more.
+Updated Layer Editor Ui.
+Added + BlendTree to Layer Editor in States.
 
 2.1 21/11/2026
 Updated Animations Recorder to allow you to animate parameters.
