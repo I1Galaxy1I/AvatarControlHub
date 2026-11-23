@@ -1,5 +1,6 @@
 2.2 WIP
 Updated Animations Merger to fix overlap issues.
+Fixed Searching in the Parameter Manager.
 
 2.1 21/11/2026
 Updated Animations Recorder to allow you to animate parameters.
