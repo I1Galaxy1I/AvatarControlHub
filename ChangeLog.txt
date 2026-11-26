@@ -7,6 +7,8 @@ Added + BlendTree to Layer Editor in States.
 Updated Layer Editor Transitions Options.
 Updated Parameter Driver UI.
 Added Preset Options to Parameter Driver Maker the Preset option is for Clothing, Colours, etc Presets.
+Updated Missing Parameters Finder.
+Updated Parameter Usage Finder.
 
 2.1 21/11/2026
 Updated Animations Recorder to allow you to animate parameters.
