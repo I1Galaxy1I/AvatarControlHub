@@ -10,6 +10,7 @@ Added Preset Options to Parameter Driver Maker the Preset option is for Clothing
 Updated Missing Parameters Finder.
 Updated Parameter Usage Finder.
 Added Show End Of Parameters to Parameter Manager.
+Updated VRC Menu Editor to show menu name instead of assets name.
 
 2.1 21/11/2026
 Updated Animations Recorder to allow you to animate parameters.
