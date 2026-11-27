@@ -11,6 +11,7 @@ Updated Missing Parameters Finder.
 Updated Parameter Usage Finder.
 Added Show End Of Parameters to Parameter Manager.
 Updated VRC Menu Editor to show menu name instead of assets name.
+Added Temp and Perm Load parameters that can be used for first load stuff.
 
 2.1 21/11/2026
 Updated Animations Recorder to allow you to animate parameters.
